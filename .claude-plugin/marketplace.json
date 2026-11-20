@@ -1,0 +1,14 @@
+{
+  "name": "product-owner-for-designers",
+  "description": "Claude skills that help designers take on product owner work",
+  "owner": {
+    "name": "Noel Lyons"
+  },
+  "plugins": [
+    {
+      "name": "product-owner-for-designers",
+      "source": "./plugins/product-owner-for-designers",
+      "description": "Build a product plan with inline coaching, and turn designs into backlog slices"
+    }
+  ]
+}
